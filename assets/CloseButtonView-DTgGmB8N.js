@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,a as s}from"./index-Dt044yYw.js";const n={name:"CloseButton"},a=s("button",{type:"button",class:"btn-close position-absolute top-10 end-0 m-0","aria-label":"Close"},null,-1),c=[a];function l(r,_,i,p,u,d){return o(),e("div",null,c)}const m=t(n,[["render",l]]);export{m as default};

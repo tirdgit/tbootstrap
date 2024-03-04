@@ -1,0 +1,1 @@
+import{_ as t}from"./logo-CC90_112.js";import{_ as e,c as o,o as a,a as s}from"./index-Dt044yYw.js";const c={name:"Image"},r=s("img",{src:t,class:"img-fluid max-width:100% hight:auto width:auto",alt:"..."},null,-1),i=[r];function n(_,m,d,l,p,u){return a(),o("div",null,i)}const g=e(c,[["render",n]]);export{g as default};
